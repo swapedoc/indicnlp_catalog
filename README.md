@@ -189,7 +189,11 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
-- [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data): Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages. 
+- [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data): Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
+- - [Hindi-Kumaoni Parallel Corpus](https://huggingface.co/datasets/swapedoc/hindi-kumaoni-parallel-corpus) -
+  First publicly available Hindi↔Kumaoni (kfy) parallel translation dataset. 920 sentence pairs in 
+  Devanagari script, Central Kumaoni (Almora dialect). Covers vocabulary, grammar, verb conjugations 
+  and daily conversation. [Swapnil Joshi, 2025]
 - [Samanantar Parallel Corpus](https://ai4bharat.iitm.ac.in/samanantar): Largest parallel corpus for English and 11 Indian languages (as of 2021). It comprises 46m sentence pairs between English-Indian languages and 82m sentence  pairs between Indian languages.
 - [FLORES-101](https://github.com/facebookresearch/flores): Human translated evaluation sets for 101 languages released by Facebook. It includes 14 Indic languages. The testsets are n-way parallel. 
 - [FLORES-200](https://github.com/facebookresearch/flores/tree/main/flores200): Human translated evaluation sets for 200 languages released by Facebook. It includes 24 Indic languages. The testsets are n-way parallel. 
@@ -493,3 +497,4 @@ http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf))
  - [Tamil](https://narvidhai.github.io/tamil-nlp-catalog/)
  - [Sinhala](https://lknlp.github.io): [[git repo]](https://github.com/lknlp/lknlp.github.io)
  - [Urdu](https://github.com/urduhack/awesome-urdu)
+
